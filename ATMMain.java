@@ -7,7 +7,7 @@ public class ATMMain {
         
         AkunBank[] daftarAkun = new AkunBank[2];
         daftarAkun[0] = new AkunBank("101", "H (Hapid)", "123456", 500000);
-        daftarAkun[1] = new AkunBank("102", "ujang ronda", "000000", 150000);        
+        daftarAkun[1] = new AkunBank("102", "ujang ronda", "000000", 1000000000); 
         
         boolean atmMenyala = true;
         
